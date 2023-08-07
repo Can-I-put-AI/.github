@@ -1,1 +1,1 @@
-# .github
+pip install --upgrade openai# .github
